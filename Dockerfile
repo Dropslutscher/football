@@ -1,5 +1,7 @@
 #Fix einfügen
-#der Mist geht nicht
+
+#Funktioniert leider nicht immer
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
