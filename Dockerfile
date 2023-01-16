@@ -1,5 +1,5 @@
 #Fix einfügen
-
+# Funktioniert leider nicht
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
